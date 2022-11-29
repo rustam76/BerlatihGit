@@ -1,3 +1,10 @@
 Nama : Rustamaji
 Stack : FRONTEND
-Bahasa Pemrograman : Javasript,php
+bahasa Pemrograman : Javasript,php
+
+==========
+
+ini dari komputer B
+ini dari komputer B
+
+=========
